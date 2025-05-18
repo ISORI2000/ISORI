@@ -31,7 +31,7 @@
     z-index: 1000;
     opacity: 0.01;
     top: 0;
-    left:0;
+    left: 0;
     background-size: auto;
     background-image: url("ISori_images/noise.png");
     animation: shift 0.2s linear infinite both;
@@ -318,14 +318,14 @@ dialog {
   }
   
   /*popup*/
-dialog {
+.dialog {
   padding: 20px;
   border: 3px solid var(--secondary-color, #461BF3);
   border-radius: 10px;
   background-color: var(--white-color, #fff);
   font-family: "Pixelify Sans", sans-serif;
   position: fixed;
-    z-index: 15;
+  z-index: 15;
 }
 .dialog-buttons {
   font-size: 15px; 
