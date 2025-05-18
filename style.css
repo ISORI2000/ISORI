@@ -325,6 +325,7 @@ dialog {
   background-color: var(--white-color, #fff);
   font-family: "Pixelify Sans", sans-serif;
   position: fixed;
+    z-index: 15;
 }
 .dialog-buttons {
   font-size: 15px; 
