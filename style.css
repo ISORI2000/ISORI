@@ -28,7 +28,7 @@
     width: 150vw;
     overflow: hidden;
     position: fixed;
-    z-index: 100;
+    z-index: 1000;
     opacity: 0.01;
     top: 0;
     left:0;
